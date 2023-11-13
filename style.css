@@ -1,0 +1,9 @@
+:root {
+    --test: blue;
+    --color: black;
+
+}
+
+* {
+    background-color: var(--test);
+}
